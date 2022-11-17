@@ -1,0 +1,3 @@
+- 👋 olá, meu nome é Ana Watanabe.
+-  meu email é : ana.watanabe@escola.pr.gov.br
+- 👀 estou interesada em aprender a programar .
